@@ -9,9 +9,9 @@
 📫 Reach Me At: www.alexandrequeiroz.com.br
 
 Skills
-Frontend: Angular, HTML5, CSS3, JavaScript, jQuery, Bootstrap
-Backend: ASP.NET, ASP.NET Core, NodeJS, ASP.NET MVC, ASP.NET Web API, Entity Framework
-Mobile: Ionic Framework
+Frontend: Angular, ASP.NET Core MVC, HTML5, CSS3, JavaScript, jQuery, Bootstrap, ReactJS
+Backend: .NET Core, ASP.NET, NodeJS, ASP.NET Web API, Entity Framework
+Mobile: Ionic Framework, React Native
 Database: Microsoft SQL Server, Oracle
 DevOps: GitHub, Azure DevOps
 Other: AI/Chatbot Development, Natural Language Processing (NLP), Cross-browser Website Design,  ReactJS
